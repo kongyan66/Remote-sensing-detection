@@ -1,7 +1,7 @@
 # Remote-sensing-detection
-All kinds of remote sensing detectors (rotation detectors) were collected for comparative experiments
+This repository collects more advanced remote sensing image detectors (rotation detectors) to facilitate comparison
 
-|model| backbone | year|stage| paper link|code|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| ICN |   -     |2018|two-stage|[ACCV](https://arxiv.org/pdf/1807.02700.pdf)|-|
+|Model| year | Backbone|Neck|mAP|stage| paper link|code|
+|:--:|:--:|:--:|:--:|:--:|:--:|:-:|:--:|
+| ICN |2018|-|-|-|two-stage|[ACCV](https://arxiv.org/pdf/1807.02700.pdf)|-|
 
