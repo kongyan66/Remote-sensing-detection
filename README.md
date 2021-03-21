@@ -1,4 +1,4 @@
-# Remote-sensing-detection
+# Remote-Sensing-Detection
 
 This repository collects more advanced remote sensing image detectors (rotation detectors) to facilitate comparison
 
@@ -22,7 +22,7 @@ This repository collects more advanced remote sensing image detectors (rotation 
 |     O2-DNet      | 2019 |          |      |  one  |        [ISPRS](https://arxiv.org/pdf/1912.10694.pdf)         |                              -                               |
 |    BBAVectors    | 2020 |          |      |  one  | [WACV](https://openaccess.thecvf.com/content/WACV2021/papers/Yi_Oriented_Object_Detection_in_Aerial_Images_With_Box_Boundary-Aware_Vectors_WACV_2021_paper.pdf) | [pytorch](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection) |
 |       DAL        | 2020 |          |      |  one  |        [arXiv](https://arxiv.org/pdf/2012.04150.pdf)         |           [pytorch](https://github.com/ming71/DAL)           |
-|     S2A-Net      | 2020 |          |      |  one  |        [arXIv](https://arxiv.org/pdf/2008.09397.pdf)         |          [mmdet](https://github.com/csuhan/
+|     S2A-Net      | 2020 |          |      |  one  |        [arXIv](https://arxiv.org/pdf/2008.09397.pdf)         |          [mmdet](https://github.com/csuhan/)
 s2anet)           |
 |       DRN        | 2020 |          |      |  one  | [CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Dynamic_Refinement_Network_for_Oriented_and_Densely_Packed_Object_Detection_CVPR_2020_paper.pdf) |      [pytorch](https://github.com/Anymake/DRN_CVPR2020)      |
 |     PDF-Net      | 2020 |          |      |  one  |        [ORSSD](https://arxiv.org/pdf/2010.00793.pdf)         |                                                              |
