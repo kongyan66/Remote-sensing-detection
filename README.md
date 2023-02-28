@@ -1,8 +1,8 @@
 # Remote-Sensing-Detection
 This repository collects more advanced remote sensing image detectors (rotation detectors) to facilitate comparison
-##Paper
+## Paper
 
-|      Model       | year | Backbone | Neck | stage |                          paper link                          |                             code                             |
+|      Model       | year | Backbone | Neck | stage |                          Paper Link                          |                             Code Link                          |
 | :--------------: | :--: | :------: | :--: | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |      R2CNN       | 2017 |          |      |       |                                                              | [tf](https://github.com/yangxue0827/R2CNN_HEAD_FPN_Tensorflow) |
 |       ICN        | 2018 |    -     |  -   |  two  |         [ACCV](https://arxiv.org/pdf/1807.02700.pdf)         |                              -                               |
@@ -28,9 +28,8 @@ s2anet)           |
 |     PDF-Net      | 2020 |          |      |  one  |        [ORSSD](https://arxiv.org/pdf/2010.00793.pdf)         |                                                              |
 |     P-RSDet      | 2020 |          |      |  one  |     [IEEE Access](https://arxiv.org/pdf/2001.02988.pdf)      |      [tf](https://github.com/Mrqianduoduo/RSDet-8P-4R)       |
 |     CFC-Net      | 2021 |          |      |  one  |        [aRxiv](https://arxiv.org/pdf/2101.06849.pdf)         |         [pytorch](https://github.com/ming71/CFC-Net)         |
-|                  |      |          |      |       |                                                              |                                                              |
-|                  |      |          |      |       |                                                              |                                                              |
-|                  |      |          |      |       |                                                              |                                                              |
+|                  |      |          |      |       |                                                              |                                                              
+
 
 ## Dataset
 |       Name       | Categories |       Annotation       |                                                                                                               Paper                                                                                                               |                                                                                           Download                                                                                           |  Remark  |
